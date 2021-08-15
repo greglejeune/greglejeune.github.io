@@ -1,1 +1,8 @@
+# Site settings
+title: Grégory Lejeune
+baseurl: "https://greglejeune.github.io/"
+url: "https://greglejeune.github.io/"
 
+# Settings
+markdown: kramdown
+permalink: pretty
