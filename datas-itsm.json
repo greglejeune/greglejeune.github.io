@@ -52,7 +52,19 @@
     ]
   },
   "tasks" : {
-    "rows" : []
+    "rows" : [{
+                "id"          : 11,
+                "name"        : "Project validation Kick-Off",
+                "percentDone" : 50,
+                "startDate"   : "2019-04-11",
+                "rollup"      : true,
+                "duration"    : 3,
+                "endDate"     : "2019-04-11",
+                "cost"        : 200,
+                "priority"    : 1,
+                "complexity"  : 1,
+                "baselines"   : []
+              }]
   },
   "dependencies" : {},
   "resources" : {
