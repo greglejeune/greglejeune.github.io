@@ -88,6 +88,19 @@
                 "complexity"  : 1,
                 "baselines"   : []
               },{
+                "id"             : 4,
+                "name"           : "Assignment Group",
+                "percentDone"    : 0,
+                "startDate"      : "2025-07-21",
+                "rollup"         : true,
+                "complexity"     : 0,
+                "duration"       : 5,
+                "endDate"        : "2025-07-25",
+                "showInTimeline" : true,
+                "cost"           : 0,
+                "priority"       : 1,
+                "baselines"   : []
+              },{
                 "id"          : 100,
                 "name"        : "Go Live",
                 "percentDone" : 50,
