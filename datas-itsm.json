@@ -55,11 +55,35 @@
     "rows" : [{
                 "id"          : 1,
                 "name"        : "Project validation Kick-Off",
-                "percentDone" : 50,
+                "percentDone" : 100,
                 "startDate"   : "2025-04-11",
                 "rollup"      : true,
                 "duration"    : 0,
-                "cost"        : 200,
+                "cost"        : 0,
+                "priority"    : 1,
+                "complexity"  : 1,
+                "baselines"   : []
+              },{
+                "id"             : 2,
+                "name"           : "List of services",
+                "percentDone"    : 0,
+                "startDate"      : "2025-07-17",
+                "rollup"         : true,
+                "complexity"     : 0,
+                "duration"       : 5,
+                "endDate"        : "2025-07-24",
+                "showInTimeline" : true,
+                "cost"           : 0,
+                "priority"       : 1,
+                ]
+              },{
+                "id"          : 3,
+                "name"        : "Workshop Master Data",
+                "percentDone" : 0,
+                "startDate"   : "2025-07-18",
+                "rollup"      : true,
+                "duration"    : 0,
+                "cost"        : 0,
                 "priority"    : 1,
                 "complexity"  : 1,
                 "baselines"   : []
