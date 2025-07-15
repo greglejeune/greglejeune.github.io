@@ -75,7 +75,7 @@
                 "showInTimeline" : true,
                 "cost"           : 0,
                 "priority"       : 1,
-                ]
+                "baselines"   : []
               },{
                 "id"          : 3,
                 "name"        : "Workshop Master Data",
