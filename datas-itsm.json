@@ -123,6 +123,17 @@
                 "complexity"  : 1,
                 "baselines"   : []
               },{
+                "id"          : 7,
+                "name"        : "Workshop Services Catalog #2",
+                "percentDone" : 0,
+                "startDate"   : "2025-08-14",
+                "rollup"      : true,
+                "duration"    : 0,
+                "cost"        : 0,
+                "priority"    : 1,
+                "complexity"  : 1,
+                "baselines"   : []
+              },{
                 "id"          : 100,
                 "name"        : "Go Live",
                 "percentDone" : 50,
